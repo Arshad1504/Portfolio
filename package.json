@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Arshad1504.github.io/Portfoli",
+  "homepage": "https://Arshad1504.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
