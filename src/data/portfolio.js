@@ -18,7 +18,7 @@ export const PROFILE = {
   role: "Full Stack Developer",
   location: "Noida, Uttar Pradesh",
   bio: "Full-stack developer designing and building system architectures for production projects. \n\nMy work focuses on backend engineering, AI & LLM integrations, and automation scripting - creating scalable solutions beyond traditional web applications. \n\nAlways open to connect and collaborate.",
-  image: "/profile.jpeg", // Place your profile.png in the public folder
+  image: import.meta.env.BASE_URL + "profile.jpeg", // Use Vite base URL so asset resolves on GH Pages
   social: [
     { icon: Github, link: "https://github.com/Arshad1504", label: "GitHub" },
     {
