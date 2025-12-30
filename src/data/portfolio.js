@@ -27,7 +27,11 @@ export const PROFILE = {
       label: "LinkedIn",
     },
     { icon: Mail, link: "mailto:arshad.alam1504@gmail.com", label: "Email" },
-    { icon: FileUser, link: "https://twitter.com", label: "Resume" },
+    {
+      icon: FileUser,
+      link: "https://drive.google.com/file/d/1Qd-ORiz_ap0IfuWO67BisV9iC0vjRHHp/view?usp=sharing",
+      label: "Resume",
+    },
   ],
 };
 
